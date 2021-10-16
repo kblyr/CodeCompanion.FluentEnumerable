@@ -1,0 +1,1 @@
+dotnet pack src/FluentEnumerable --configuration Release --output ../.nuget_releases/
